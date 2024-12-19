@@ -1,0 +1,119 @@
+body {
+    background-color: hsl(330, 100%, 98%);
+}
+
+img {
+    margin-left: 50px;
+    margin-top: 30px;
+    border-radius:15px ;
+}
+
+h1 {
+    color: hsl(30, 10%, 34%);
+    margin-left: 80px;
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+p {
+    margin-left: 30px;
+}
+
+.presentacion {
+    width: 400px;
+}
+.box {
+    border: 5px;
+    border-style: solid;
+    border-color: hsl(0, 0%, 100%);
+    border-radius: 25px;
+    background-color: hsl(0, 0%, 100%);
+    width: 500px;
+    margin-left: 440px;
+}
+
+.preparacion {
+    color: hsl(332, 51%, 32%);
+    margin-left: 20px;
+}
+
+.preparacion-item {
+    border: 1px;
+    border-style: solid;
+    border-color: hsl(0, 0%, 100%);
+    background-color: hsl(330, 100%, 98%);
+    list-style-type: circle;
+}
+
+.item {
+    list-style-type: circle;
+}
+
+.ingredientes {
+    color: hsl(14, 45%, 36%);
+    margin-left: 25px;
+}
+
+.ingredientes-item {
+    font-style: italic;
+}
+
+.instrucciones {
+    color: hsl(14, 45%, 36%);
+    margin-left: 25px;
+}
+
+.instrucciones-item {
+   font-style: italic; 
+}
+
+.nutricion {
+    color: hsl(14, 45%, 36%);
+    margin-left: 20px;
+}
+
+.nutricion-item {
+    margin-left: 35px;
+    font-style: oblique;
+}
+
+hr {
+    width: 400px;
+}
+
+th {
+    border: 2px;
+    border-bottom-style: solid;
+    border-color: rgba(184, 176, 176, 0.6);
+}
+
+.table {
+    border: 2px;
+    border-style: solid;
+    border-color: hsl(30, 54%, 90%);
+    border-radius: 10px;
+    margin: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.td {
+    position: relative;
+    left: 35px;
+}
+
+.td-1 {
+    position: relative;
+    left: 7px;
+}
+
+.td-2 {
+    position: relative;
+    left: 20px;
+}
+
+.td-3 {
+    position: relative;
+    left: 10px;
+}
